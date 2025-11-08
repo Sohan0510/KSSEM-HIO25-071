@@ -1,0 +1,23 @@
+[
+  { "payload": { "timestamp": "2025-10-17T09:00:00.000Z", "soilMoisture": 31.2, "soilTemperature": 19.4, "airTemperature": 27.1, "humidity": 58.3, "battery": 92, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-18T09:00:00.000Z", "soilMoisture": 33.8, "soilTemperature": 18.9, "airTemperature": 26.7, "humidity": 57.0, "battery": 91, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-19T09:00:00.000Z", "soilMoisture": 30.5, "soilTemperature": 19.2, "airTemperature": 27.9, "humidity": 59.1, "battery": 91, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-20T09:00:00.000Z", "soilMoisture": 29.7, "soilTemperature": 18.6, "airTemperature": 26.8, "humidity": 60.2, "battery": 90, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-21T09:00:00.000Z", "soilMoisture": 28.9, "soilTemperature": 18.3, "airTemperature": 26.4, "humidity": 61.0, "battery": 90, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-22T09:00:00.000Z", "soilMoisture": 32.1, "soilTemperature": 19.0, "airTemperature": 27.5, "humidity": 59.3, "battery": 89, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-23T09:00:00.000Z", "soilMoisture": 35.4, "soilTemperature": 19.8, "airTemperature": 28.0, "humidity": 56.8, "battery": 89, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-24T09:00:00.000Z", "soilMoisture": 34.9, "soilTemperature": 20.1, "airTemperature": 27.6, "humidity": 55.9, "battery": 88, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-25T09:00:00.000Z", "soilMoisture": 36.2, "soilTemperature": 20.5, "airTemperature": 27.9, "humidity": 55.1, "battery": 88, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-26T09:00:00.000Z", "soilMoisture": 38.4, "soilTemperature": 20.9, "airTemperature": 28.3, "humidity": 54.4, "battery": 87, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-27T09:00:00.000Z", "soilMoisture": 37.1, "soilTemperature": 20.4, "airTemperature": 27.8, "humidity": 56.2, "battery": 87, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-28T09:00:00.000Z", "soilMoisture": 36.5, "soilTemperature": 20.0, "airTemperature": 27.2, "humidity": 57.5, "battery": 86, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-29T09:00:00.000Z", "soilMoisture": 34.2, "soilTemperature": 19.3, "airTemperature": 26.7, "humidity": 58.9, "battery": 86, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-30T09:00:00.000Z", "soilMoisture": 33.7, "soilTemperature": 19.2, "airTemperature": 26.2, "humidity": 59.6, "battery": 85, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-10-31T09:00:00.000Z", "soilMoisture": 32.9, "soilTemperature": 19.0, "airTemperature": 26.1, "humidity": 60.0, "battery": 85, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-11-01T09:00:00.000Z", "soilMoisture": 31.4, "soilTemperature": 18.7, "airTemperature": 26.5, "humidity": 60.4, "battery": 84, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-11-02T09:00:00.000Z", "soilMoisture": 30.1, "soilTemperature": 18.3, "airTemperature": 27.0, "humidity": 61.3, "battery": 84, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-11-03T09:00:00.000Z", "soilMoisture": 29.8, "soilTemperature": 18.1, "airTemperature": 27.3, "humidity": 60.9, "battery": 83, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-11-04T09:00:00.000Z", "soilMoisture": 28.6, "soilTemperature": 17.9, "airTemperature": 26.8, "humidity": 61.6, "battery": 83, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-11-05T09:00:00.000Z", "soilMoisture": 27.4, "soilTemperature": 17.4, "airTemperature": 26.3, "humidity": 62.1, "battery": 82, "unit": "v1.0" }, "deviceId": "KS-DEV-002" },
+  { "payload": { "timestamp": "2025-11-06T09:00:00.000Z", "soilMoisture": 26.9, "soilTemperature": 17.2, "airTemperature": 26.0, "humidity": 62.7, "battery": 82, "unit": "v1.0" }, "deviceId": "KS-DEV-002" }
+]
