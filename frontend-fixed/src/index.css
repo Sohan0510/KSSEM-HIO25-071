@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Design system */
+.btn {
+  @apply inline-flex items-center justify-center px-4 py-2 rounded-lg font-medium transition-all duration-200;
+}
+.btn-primary {
+  @apply bg-indigo-600 text-white hover:bg-indigo-700 active:scale-95 shadow-sm;
+}
+.btn-ghost {
+  @apply bg-white border border-gray-300 text-gray-700 hover:bg-gray-50 active:scale-95;
+}
+.card {
+  @apply rounded-2xl bg-white p-5 shadow-md hover:shadow-lg transition-shadow duration-200;
+}
+.badge {
+  @apply inline-flex items-center rounded-full bg-indigo-100 px-2.5 py-1 text-xs font-medium text-indigo-700;
+}
+.link {
+  @apply text-indigo-600 hover:underline;
+}
+.table {
+  @apply w-full text-sm border-collapse;
+}
+.th {
+  @apply text-left px-3 py-2 font-semibold bg-gray-50 border-b text-gray-700;
+}
+.td {
+  @apply px-3 py-2 text-gray-700;
+}
+.input {
+  @apply w-full rounded-lg border border-gray-300 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500;
+}
+
+/* Animations */
+.fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
